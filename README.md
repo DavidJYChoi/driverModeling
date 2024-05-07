@@ -11,6 +11,7 @@ Perform any cleaning, exploratory analysis, and/or visualizations to use the pro
 Build a predictive model to help Uber determine whether or not a driver signup will start driving. Discuss why you chose your approach, what alternatives you considered, and any concerns you have. How valid is your model? Include any key indicators of model performance.
 Briefly discuss how Uber might leverage the insights gained from the model to generate more first trips (again, a few ideas/sentences will suffice).
 
+------------------------------------------------------------------------------------------------------------------------------------
 Data Description:
 id: driver_id
 
